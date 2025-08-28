@@ -24,5 +24,16 @@
     "haveclassic": "yes",
     "have1.21": "yes",
     "have1.16": "yes"
+  },
+  "xbash01": {
+    "username": "xbash01",
+    "subscription_type": "1month",
+    "start_date": "2025-08-28T21:38:01.458496",
+    "end_date": "2025-09-27T21:38:01.458496",
+    "duration_days": 30,
+    "granted_by": "KEY_ACTIVATION",
+    "granted_at": "2025-08-28T21:38:02.539281",
+    "activation_key": "FIBASH-1MONTH-879H2AG1",
+    "hwid": "FIBASH1MONTH879H2AG1"
   }
 }
