@@ -1,1 +1,20 @@
-{}
+{
+  "fibashdlc": {
+    "password": "11",
+    "hwid": "7ec3d7cb792021541a990ef1aa603bb8fec61e4a87a4b95d9c9ab9ece486b4dc",
+    "havesub": "yes",
+    "haveban": "no",
+    "bantill": "",
+    "whyban": "",
+    "sub_end": "2125-08-04",
+    "havevisuals": "yes",
+    "haveclassic": "yes",
+    "have1.21": "yes",
+    "have1.16": "yes",
+    "original_key_type": "lifetime",
+    "activation_key": "FIBASH-LIFETIME-LRCNDLUX",
+    "activated_by_telegram_user_id": 7592414655,
+    "activated_by_telegram_username": "xbash01",
+    "activated_at": "2025-08-28T22:00:19.924395"
+  }
+}
