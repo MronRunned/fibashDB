@@ -1,1 +1,9 @@
-
+{
+  "testuser": {
+    "password": "1234",
+    "hwid": "",
+    "havesub": "yes",
+    "haveban": "no",
+    "sub_end": "2099-12-31"
+  }
+}
