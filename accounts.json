@@ -24,23 +24,5 @@
     "haveclassic": "yes",
     "have1.21": "yes",
     "have1.16": "yes"
-  },
-  "xbash01": {
-    "password": "1234",
-    "hwid": "5cVQBF1R1tt1hXRsqzeIG1sddNApkB3tW5PG",
-    "havesub": "yes",
-    "haveban": "no",
-    "bantill": "",
-    "whyban": "",
-    "sub_end": "2025-09-27",
-    "havevisuals": "yes",
-    "haveclassic": "yes",
-    "have1.21": "yes",
-    "have1.16": "yes",
-    "original_key_type": "1month",
-    "activation_key": "FIBASH-1MONTH-4CKQA6JK",
-    "activated_by_telegram_user_id": 7592414655,
-    "activated_by_telegram_username": "xbash01",
-    "activated_at": "2025-08-28T21:47:05.970673"
   }
 }
