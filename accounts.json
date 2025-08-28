@@ -1,1 +1,20 @@
-
+{
+  "123": {
+    "password": "123",
+    "hwid": "FIBASH1MONTH5VRRK51",
+    "havesub": "yes",
+    "haveban": "no",
+    "bantill": "",
+    "whyban": "",
+    "sub_end": "2025-09-27",
+    "havevisuals": "yes",
+    "haveclassic": "yes",
+    "have1.21": "yes",
+    "have1.16": "yes",
+    "original_key_type": "1month",
+    "activation_key": "FIBASH-1MONTH-J5VRRK51",
+    "activated_by_telegram_user_id": 7592414655,
+    "activated_by_telegram_username": "xbash01",
+    "activated_at": "2025-08-28T21:50:43.739828"
+  }
+}
