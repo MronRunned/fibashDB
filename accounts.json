@@ -55,5 +55,18 @@
     "haveclassic": "no",
     "have1.21": "no",
     "have1.16": "yes"
+  },
+  "loader": {
+    "password": "12",
+    "hwid": "beed28b71504d2659b412ca02a425135b3baf844e9c8fdeef560e14491e30512",
+    "havesub": "yes",
+    "haveban": "no",
+    "bantill": "",
+    "whyban": "",
+    "sub_end": "2025-09-28",
+    "havevisuals": "no",
+    "haveclassic": "no",
+    "have1.21": "no",
+    "have1.16": "yes"
   }
 }
