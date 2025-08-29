@@ -68,5 +68,18 @@
     "haveclassic": "no",
     "have1.21": "no",
     "have1.16": "yes"
+  },
+  "imthefibre": {
+    "password": "ogueddy2025",
+    "hwid": "3da797f7186d9b8e68f14cccafaa2a441a9ff0cf5dae6c19f606c794a39db566",
+    "havesub": "yes",
+    "haveban": "no",
+    "bantill": "",
+    "whyban": "",
+    "sub_end": "2125-08-05",
+    "havevisuals": "no",
+    "haveclassic": "no",
+    "have1.21": "no",
+    "have1.16": "yes"
   }
 }
