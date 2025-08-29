@@ -16,5 +16,18 @@
     "activated_by_telegram_user_id": 7592414655,
     "activated_by_telegram_username": "xbash01",
     "activated_at": "2025-08-28T22:00:19.924395"
+  },
+  "ffffff": {
+    "password": "ffff",
+    "hwid": "fffffffffffffffff123124",
+    "havesub": "yes",
+    "haveban": "no",
+    "bantill": "",
+    "whyban": "",
+    "sub_end": "2025-09-28",
+    "havevisuals": "no",
+    "haveclassic": "no",
+    "have1.21": "no",
+    "have1.16": "yes"
   }
 }
