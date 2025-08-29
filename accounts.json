@@ -81,5 +81,18 @@
     "haveclassic": "no",
     "have1.21": "no",
     "have1.16": "yes"
+  },
+  "activate FIBASH-1MONTH-IVN70V0N": {
+    "password": "grip123",
+    "hwid": "6ad8598d4ecd6146a4724a17fc006d90cea9c59524affc8baf98262d7059432b",
+    "havesub": "yes",
+    "haveban": "no",
+    "bantill": "",
+    "whyban": "",
+    "sub_end": "2025-09-28",
+    "havevisuals": "no",
+    "haveclassic": "no",
+    "have1.21": "no",
+    "have1.16": "yes"
   }
 }
