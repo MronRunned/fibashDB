@@ -77,9 +77,9 @@
     "bantill": "",
     "whyban": "",
     "sub_end": "2125-08-05",
-    "havevisuals": "no",
-    "haveclassic": "no",
-    "have1.21": "no",
+    "havevisuals": "yes",
+    "haveclassic": "yes",
+    "have1.21": "yes",
     "have1.16": "yes"
   },
   "activate FIBASH-1MONTH-IVN70V0N": {
