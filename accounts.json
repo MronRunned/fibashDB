@@ -107,5 +107,18 @@
     "haveclassic": "no",
     "have1.21": "no",
     "have1.16": "yes"
+  },
+  "ItsSnikers": {
+    "password": "matvey2011",
+    "hwid": "bbcad9c890c9e3c68706f6e005e58adcf3a8db7de84d96689f8cd67348619076",
+    "havesub": "yes",
+    "haveban": "no",
+    "bantill": "",
+    "whyban": "",
+    "sub_end": "2025-10-01",
+    "havevisuals": "no",
+    "haveclassic": "no",
+    "have1.21": "no",
+    "have1.16": "yes"
   }
 }
